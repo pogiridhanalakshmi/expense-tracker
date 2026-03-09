@@ -1,0 +1,15 @@
+# PHP
+vendor/
+*.log
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE (optional - remove .vscode/ to commit editor settings)
+# .vscode/
+
+# Node (if you use Tailwind build later)
+node_modules/
